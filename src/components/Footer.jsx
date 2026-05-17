@@ -24,6 +24,7 @@ export default function Footer() {
               <Link to="/delivery">Доставка</Link>
               <Link to="/about">О заводе</Link>
               <Link to="/news">Новости</Link>
+              <Link to="/contacts">Контакты</Link>
             </div>
           </div>
           
