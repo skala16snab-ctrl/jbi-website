@@ -32,13 +32,6 @@ export default function HeaderInfo() {
           </div>
         </div>
         
-        <div className="header-badge">
-          <div className="badge-circle">
-            <span className="badge-number">11</span>
-            <span className="badge-text">лет</span>
-          </div>
-          <div className="badge-label">на ПУЛЬС ЦЕН</div>
-        </div>
       </div>
     </div>
   );
