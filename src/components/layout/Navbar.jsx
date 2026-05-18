@@ -22,7 +22,7 @@ export default function Navbar() {
           <Search size={18} className="search-icon" />
         </div>
         
-        <button className="navbar-button">Заказать звонок</button>
+
       </div>
     </div>
   );
