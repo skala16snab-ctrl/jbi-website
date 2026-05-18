@@ -46,6 +46,7 @@ export default function Header() {
             <Link to="/delivery" className={location.pathname === '/delivery' ? 'active' : ''}>Доставка</Link>
             <Link to="/about" className={location.pathname === '/about' ? 'active' : ''}>О заводе</Link>
             <Link to="/news" className={location.pathname === '/news' ? 'active' : ''}>Новости</Link>
+            <Link to="/contacts" className={location.pathname === '/contacts' ? 'active' : ''}>Контакты</Link>
           </nav>
           
           <div className="header-contacts">

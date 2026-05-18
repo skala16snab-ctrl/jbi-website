@@ -7,7 +7,7 @@ const sheetName = workbook.SheetNames[0];
 const sheet = workbook.Sheets[sheetName];
 const rows = xlsx.utils.sheet_to_json(sheet);
 
-const headerRow = rows[0]; 
+const headerRow = rows[0];
 const rawHeaders = Object.keys(headerRow);
 
 const findKeyByContent = (searchText) => {
@@ -35,9 +35,9 @@ for (let i = 1; i < rows.length; i++) {
 
   const g1 = row[keysMap.group1] || 'Прочее';
   const g2 = row[keysMap.group2] || '';
-  
+
   const catId = g1.toLowerCase().replace(/[^a-zа-я0-9]/g, '_');
-  
+
   if (!categories.has(catId)) {
     categories.set(catId, {
       id: catId,
@@ -57,20 +57,20 @@ for (let i = 1; i < rows.length; i++) {
   const charBlock1 = row[keysMap.chars1] || '';
   const charBlock2 = row[keysMap.chars2] || '';
   const description = row[keysMap.desc] || '';
-  
+
   // Создаем единый массив всех характеристик вида "Ключ: Значение"
   const allPropsStr = `${charBlock1}; ${charBlock2}; ${description}`;
   const propsPairs = allPropsStr.split(';').map(p => p.trim()).filter(Boolean);
-  
+
   let dVal = null, wVal = null, hVal = null, sizeVal = null, weightVal = null;
-  
+
   // Парсим пары ключ-значение
   propsPairs.forEach(pair => {
     const parts = pair.split(':');
     if (parts.length >= 2) {
       const key = parts[0].toLowerCase().trim();
       const val = parts.slice(1).join(':').trim();
-      
+
       if (key.includes('длина')) dVal = val;
       if (key.includes('ширин')) wVal = val;
       if (key.includes('высот')) hVal = val;
@@ -111,9 +111,9 @@ for (let i = 1; i < rows.length; i++) {
 
 console.log(`Итог: ${products.length} товаров в ${categories.size} категориях с полными размерами.`);
 
-fs.writeFileSync('./src/data/catalog.json', JSON.stringify({ 
+fs.writeFileSync('./src/data/catalog.json', JSON.stringify({
   categories: Array.from(categories.values()),
-  products 
+  products
 }, null, 2));
 
 console.log('✅ catalog.json успешно обновлен! Все характеристики детально разобраны.');

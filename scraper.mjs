@@ -42,18 +42,18 @@ const extractProducts = (html, categoryId) => {
   const products = [];
   const regex = /<li class="company-product-listing__gallery-item[^>]*>([\s\S]*?)<\/li>/g;
   let match;
-  
+
   while ((match = regex.exec(html)) !== null) {
     const block = match[1];
-    
+
     // Extract name
     const nameMatch = block.match(/<meta itemprop="name" content="([^"]+)">/);
     const name = nameMatch ? nameMatch[1] : 'Неизвестный товар';
-    
+
     // Extract image
     const imgMatch = block.match(/data-original="([^"]+)"/) || block.match(/<img[^>]+src="([^"]+)"/);
     const image = imgMatch ? imgMatch[1] : null;
-    
+
     // Extract description to get attributes
     const descMatch = block.match(/<meta itemprop="description" content="([^"]+)">/);
     let dims = '-', weight = '-';
@@ -64,7 +64,7 @@ const extractProducts = (html, categoryId) => {
       const wMatch = desc.match(/Масса:\s*([^\.]+)/i);
       if (wMatch) weight = wMatch[1].trim();
     }
-    
+
     products.push({ id: Math.random().toString(36).substr(2, 9), categoryId, name, dimensions: dims, weight, image });
   }
   return products;
@@ -79,18 +79,18 @@ const runScraper = async () => {
   const database = {
     products: []
   };
-  
+
   for (const target of TARGETS) {
     console.log(`\nПарсинг раздела: ${target.url}`);
     try {
       const firstPageHtml = await fetchHtml(target.url);
       const limit = getPageCount(firstPageHtml);
       console.log(`Найдено страниц: ${limit}`);
-      
+
       const p = extractProducts(firstPageHtml, target.id);
       database.products.push(...p);
       console.log(`- Страница 1: загружено ${p.length} товаров`);
-      
+
       // Fetch remaining pages
       for (let i = 2; i <= limit; i++) {
         try {
@@ -107,11 +107,11 @@ const runScraper = async () => {
       console.error(`Ошибка при доступе к ${target.url}:`, err.message);
     }
   }
-  
+
   const uniqueProducts = Array.from(new Map(database.products.map(item => [item.name, item])).values());
-  
+
   console.log(`\nГотово! Всего уникальных товаров собрано: ${uniqueProducts.length}`);
-  
+
   // Сохраняем результат
   fs.writeFileSync('./src/data/catalog.json', JSON.stringify({ products: uniqueProducts }, null, 2));
   console.log('Файл src/data/catalog.json успешно обновлен.');
