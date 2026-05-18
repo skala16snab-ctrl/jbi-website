@@ -11,7 +11,6 @@ export default function Navbar() {
           <Link to="/" className="nav-link">Главная</Link>
           <Link to="/about" className="nav-link">О компании</Link>
           <Link to="/catalog" className="nav-link">Каталог</Link>
-          <Link to="/jbi" className="nav-link">ЖБИ</Link>
           <Link to="/delivery" className="nav-link">Доставка и оплата</Link>
           <Link to="/shipments" className="nav-link">Наши отгрузки</Link>
           <Link to="/contacts" className="nav-link">Контакты</Link>

@@ -8,6 +8,7 @@ import Delivery from './pages/Delivery';
 import About from './pages/About';
 import News from './pages/News';
 import Contacts from './pages/Contacts';
+import Shipments from './pages/Shipments';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/news" element={<News />} />
           <Route path="/contacts" element={<Contacts />} />
+          <Route path="/shipments" element={<Shipments />} />
         </Routes>
       </Layout>
     </Router>
