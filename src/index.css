@@ -9,6 +9,11 @@
 body {
   font-family: var(--font-main);
   background-color: var(--color-bg-main);
+  background-image: 
+    radial-gradient(rgba(0, 0, 0, 0.04) 1px, transparent 0),
+    radial-gradient(rgba(0, 0, 0, 0.03) 1px, transparent 0);
+  background-size: 8px 8px;
+  background-position: 0 0, 4px 4px;
   color: var(--color-text-main);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;

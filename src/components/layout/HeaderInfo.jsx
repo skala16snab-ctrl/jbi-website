@@ -20,7 +20,7 @@ export default function HeaderInfo() {
           </div>
           <div className="contact-item">
             <Phone size={16} color="var(--color-primary)" />
-            <span>+7 (937) 620 - XX - XX</span>
+            <a href="tel:+79376200590" style={{ fontWeight: 500 }}>+7 (937) 620 - 05 - 90</a>
           </div>
           <div className="contact-item">
             <Clock size={16} color="var(--color-primary)" />
