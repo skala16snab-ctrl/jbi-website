@@ -13,13 +13,13 @@ const slides = [
     id: 2,
     title: 'ФУНДАМЕНТНЫЕ БЛОКИ',
     description: 'ФБС различных размеров для надежного основания',
-    image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=2071&auto=format&fit=crop', // Construction placeholder
+    image: 'https://images.unsplash.com/photo-1541888086425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop', // Construction placeholder
   },
   {
     id: 3,
     title: 'ПЛИТЫ ПЕРЕКРЫТИЯ',
     description: 'Пустотные плиты ПК и ПБ высокого качества',
-    image: 'https://images.unsplash.com/photo-1590644365607-1c5a3917808c?q=80&w=2070&auto=format&fit=crop', // Construction placeholder
+    image: 'https://images.unsplash.com/photo-1541888086425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop', // Construction placeholder
   }
 ];
 
