@@ -48,32 +48,6 @@ export default function Contacts() {
           </div>
         </div>
       </div>
-
-      <div className="contact-form-section" style={{marginTop: '3rem', padding: '2rem', background: 'var(--color-bg-secondary)', borderRadius: 'var(--radius-md)'}}>
-        <h2 style={{marginBottom: '0.5rem'}}>Нужна консультация? Задайте вопрос прямо сейчас!</h2>
-        <p className="text-muted" style={{marginBottom: '2rem'}}>Наши менеджеры предоставят консультацию и оформят заявку на необходимую продукцию.</p>
-
-        <form className="contact-form">
-           <div style={{display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1rem', marginBottom: '1rem'}}>
-              <input type="text" placeholder="Ваше имя" style={{padding: '0.75rem', borderRadius: '4px', border: '1px solid #ccc'}} />
-              <input type="tel" placeholder="Телефон" style={{padding: '0.75rem', borderRadius: '4px', border: '1px solid #ccc'}} />
-              <input type="email" placeholder="E-mail" style={{padding: '0.75rem', borderRadius: '4px', border: '1px solid #ccc'}} />
-           </div>
-           <textarea placeholder="Сообщение" rows="4" style={{width: '100%', padding: '0.75rem', borderRadius: '4px', border: '1px solid #ccc', marginBottom: '1rem'}}></textarea>
-
-           <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center'}}>
-               <button type="button" className="btn-outline" style={{display: 'flex', alignItems: 'center', gap: '0.5rem'}}>
-                   <FileText size={16}/> Прикрепить файл
-               </button>
-               <div>
-                   <button type="submit" className="btn-primary" style={{padding: '0.75rem 2rem', background: 'var(--color-primary)', color: 'white', border: 'none', borderRadius: '4px', fontWeight: 600}}>Оставить заявку</button>
-               </div>
-           </div>
-           <p style={{fontSize: '0.8rem', color: '#666', marginTop: '1rem'}}>
-               Нажимая «Отправить», вы даете согласие на обработку персональных данных в соответствии с политикой конфиденциальности и принимаете условия пользовательского соглашения.
-           </p>
-        </form>
-      </div>
     </div>
   );
 }

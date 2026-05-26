@@ -16,11 +16,6 @@
       "desc": "Изделия категории ЖБИ для дорожного строительства и благоустройства"
     },
     {
-      "id": "строительные_материалы",
-      "title": "Строительные материалы",
-      "desc": "Изделия категории Строительные материалы"
-    },
-    {
       "id": "жби_для_энергетического_и_нефтегазового_комплекса",
       "title": "ЖБИ для энергетического и нефтегазового комплекса",
       "desc": "Изделия категории ЖБИ для энергетического и нефтегазового комплекса"
@@ -1324,15 +1319,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/022_original.jpg"
     },
     {
-      "id": "p_145",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор бетонный М 150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st16.stpulscen.ru/images/product/152/815/574_original.jpg"
-    },
-    {
       "id": "p_146",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Перемычки",
@@ -1502,15 +1488,6 @@
       "dimensions": "-",
       "weight": "1 цифра - это типоразмер, следующее число - округленная длина в дм, последнее число - нагрузка. <br>\nДанная продукция изготавливается в стационарных формах,  что обеспечивает высокую точность их геометрических размеров. <br>\nПо желанию заказчика возможно изготовление балочных перемычек любых размеров и любого сечения, комплектование их всевозможными закладными деталями, выпусками арматуры  и т.д.",
       "image": "https://st26.stpulscen.ru/images/product/230/502/022_original.jpg"
-    },
-    {
-      "id": "p_165",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 250 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st16.stpulscen.ru/images/product/152/815/574_original.jpg"
     },
     {
       "id": "p_166",
@@ -2116,141 +2093,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/501/893_original.jpg"
     },
     {
-      "id": "p_233",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-100",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/175_original.jpg"
-    },
-    {
-      "id": "p_234",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-250",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_235",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-300",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_236",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-350",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_237",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-100",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/175_original.jpg"
-    },
-    {
-      "id": "p_238",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-150",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/174_original.jpg"
-    },
-    {
-      "id": "p_239",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-200",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_240",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-250",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_241",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-300",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_242",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-350",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_243",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М 75",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st40.stpulscen.ru/images/product/162/547/125_original.jpg"
-    },
-    {
-      "id": "p_244",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М200",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/372_original.jpg"
-    },
-    {
-      "id": "p_245",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 100 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/178_original.jpg"
-    },
-    {
-      "id": "p_246",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 150 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/240_original.jpg"
-    },
-    {
-      "id": "p_247",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 400 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/241_original.jpg"
-    },
-    {
       "id": "p_248",
       "categoryId": "жби_для_дорожного_строительства_и_благоустройства",
       "subCategory": "Кольца бетонные",
@@ -2258,15 +2100,6 @@
       "dimensions": "1000 мм",
       "weight": "1000 кг",
       "image": "https://st26.stpulscen.ru/images/product/230/501/389_original.jpg"
-    },
-    {
-      "id": "p_249",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор бетонный М 150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/238_original.jpg"
     },
     {
       "id": "p_250",
@@ -2278,51 +2111,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/253_original.jpg"
     },
     {
-      "id": "p_251",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
-      "id": "p_252",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 450 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/225_original.jpg"
-    },
-    {
-      "id": "p_253",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 400 (гравий)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/220_original.jpg"
-    },
-    {
-      "id": "p_254",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 100 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/178_original.jpg"
-    },
-    {
-      "id": "p_255",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 300 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/180_original.jpg"
-    },
-    {
       "id": "p_256",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Сваи",
@@ -2330,42 +2118,6 @@
       "dimensions": "5250х200х200",
       "weight": "530 кг",
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
-    },
-    {
-      "id": "p_257",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 350 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/180_original.jpg"
-    },
-    {
-      "id": "p_258",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-150",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/174_original.jpg"
-    },
-    {
-      "id": "p_259",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-200",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_260",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st40.stpulscen.ru/images/product/162/547/125_original.jpg"
     },
     {
       "id": "p_261",
@@ -2872,15 +2624,6 @@
       "image": "https://st41.stpulscen.ru/images/product/361/318/466_original.jpg"
     },
     {
-      "id": "p_317",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/372_original.jpg"
-    },
-    {
       "id": "p_318",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Сваи",
@@ -3160,15 +2903,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
     },
     {
-      "id": "p_349",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 200",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/196_original.jpg"
-    },
-    {
       "id": "p_350",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Плиты",
@@ -3203,15 +2937,6 @@
       "dimensions": "С - свая, числа через точку - длина и сечение в дм, последнее число - нагрузка. Различают обычные и ударостойкие сваи, последние обозначаются дополнительной буквой \"у\". <br>\nДанная продукция изготавливается в стационарных формах,  что обеспечивает высокую точность их геометрических размеров. По желанию заказчика возможно изготовление свай с индивидуальными параметрами.",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
-    },
-    {
-      "id": "p_354",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 200",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_355",
@@ -3374,15 +3099,6 @@
       "dimensions": "С - свая, числа через точку - длина и сечение в дм, последнее число - нагрузка. Различают обычные и ударостойкие сваи, последние обозначаются дополнительной буквой \"у\". <br>\nДанная продукция изготавливается в стационарных формах,  что обеспечивает высокую точность их геометрических размеров. По желанию заказчика возможно изготовление свай с индивидуальными параметрами.",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
-    },
-    {
-      "id": "p_373",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 200",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_374",
@@ -4384,15 +4100,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/022_original.jpg"
     },
     {
-      "id": "p_485",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 400 (щебень)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st16.stpulscen.ru/images/product/152/815/574_original.jpg"
-    },
-    {
       "id": "p_486",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Перемычки",
@@ -4499,15 +4206,6 @@
       "dimensions": "С - свая, числа через точку - длина и сечение в дм, последнее число - нагрузка. Различают обычные и ударостойкие сваи, последние обозначаются дополнительной буквой \"у\". <br>\nДанная продукция изготавливается в стационарных формах,  что обеспечивает высокую точность их геометрических размеров. По желанию заказчика возможно изготовление свай с индивидуальными параметрами.",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
-    },
-    {
-      "id": "p_498",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 125",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_499",
@@ -4643,15 +4341,6 @@
       "dimensions": "С - свая, числа через точку - длина и сечение в дм, последнее число - нагрузка. Различают обычные и ударостойкие сваи, последние обозначаются дополнительной буквой \"у\". <br>\nДанная продукция изготавливается в стационарных формах,  что обеспечивает высокую точность их геометрических размеров. По желанию заказчика возможно изготовление свай с индивидуальными параметрами.",
       "weight": "6 кг",
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
-    },
-    {
-      "id": "p_514",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_515",
@@ -5095,15 +4784,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
     },
     {
-      "id": "p_564",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 125",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
       "id": "p_565",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Сваи",
@@ -5185,15 +4865,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
     },
     {
-      "id": "p_574",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
       "id": "p_575",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Сваи",
@@ -5246,15 +4917,6 @@
       "dimensions": "740х2980",
       "weight": "1375 кг",
       "image": "https://st41.stpulscen.ru/images/product/361/319/429_original.jpg"
-    },
-    {
-      "id": "p_581",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 75",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_582",
@@ -5491,24 +5153,6 @@
       "image": "https://st41.stpulscen.ru/images/product/518/626/762_original.jpg"
     },
     {
-      "id": "p_608",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор бетонный М 100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st16.stpulscen.ru/images/product/152/815/574_original.jpg"
-    },
-    {
-      "id": "p_609",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 200 (гравий)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/208_original.jpg"
-    },
-    {
       "id": "p_610",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Блоки фундаментные",
@@ -5725,42 +5369,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/022_original.jpg"
     },
     {
-      "id": "p_634",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М200 фракция 0-5",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st40.stpulscen.ru/images/product/162/547/125_original.jpg"
-    },
-    {
-      "id": "p_635",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/379_original.jpg"
-    },
-    {
-      "id": "p_636",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М 75",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st40.stpulscen.ru/images/product/162/547/125_original.jpg"
-    },
-    {
-      "id": "p_637",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М 75",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st40.stpulscen.ru/images/product/162/547/125_original.jpg"
-    },
-    {
       "id": "p_638",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Элементы лестниц",
@@ -5768,195 +5376,6 @@
       "dimensions": "1050х290х168",
       "weight": "111 кг",
       "image": "https://st26.stpulscen.ru/images/product/230/501/511_original.jpg"
-    },
-    {
-      "id": "p_639",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 300 (гравий)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/194_original.png"
-    },
-    {
-      "id": "p_640",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st40.stpulscen.ru/images/product/162/547/125_original.jpg"
-    },
-    {
-      "id": "p_641",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзитобетон",
-      "name": "Керамзитобетон М200",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st40.stpulscen.ru/images/product/162/547/125_original.jpg"
-    },
-    {
-      "id": "p_642",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-350",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_643",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-300",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_644",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-250",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_645",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-200",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_646",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-150",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/174_original.jpg"
-    },
-    {
-      "id": "p_647",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-100",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/175_original.jpg"
-    },
-    {
-      "id": "p_648",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-350",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_649",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-300",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_650",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-250",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_651",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-200",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/171_original.jpg"
-    },
-    {
-      "id": "p_652",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-150",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/174_original.jpg"
-    },
-    {
-      "id": "p_653",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Мелкозернистый бетон М-100",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/200_original.jpg"
-    },
-    {
-      "id": "p_654",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 350 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/179_original.jpg"
-    },
-    {
-      "id": "p_655",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 200 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/195_original.jpg"
-    },
-    {
-      "id": "p_656",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 300 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/180_original.jpg"
-    },
-    {
-      "id": "p_657",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 100 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/178_original.jpg"
-    },
-    {
-      "id": "p_658",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 100 (гравий)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/223_original.jpg"
-    },
-    {
-      "id": "p_659",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 400 (гравий)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/176_original.jpg"
     },
     {
       "id": "p_660",
@@ -6110,15 +5529,6 @@
       "dimensions": "-",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/502/518_original.jpg"
-    },
-    {
-      "id": "p_677",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 350 (гравий)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/184_original.jpg"
     },
     {
       "id": "p_678",
@@ -7588,15 +6998,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
     },
     {
-      "id": "p_841",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 75",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
       "id": "p_842",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Сваи",
@@ -8587,15 +7988,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/557_original.jpg"
     },
     {
-      "id": "p_952",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементный М 150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
       "id": "p_953",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Элементы лестниц",
@@ -9073,15 +8465,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/875_original.jpg"
     },
     {
-      "id": "p_1006",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 250 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/180_original.jpg"
-    },
-    {
       "id": "p_1007",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Опорные подушки",
@@ -9208,15 +8591,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/153_original.png"
     },
     {
-      "id": "p_1021",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 150 (гравий)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st16.stpulscen.ru/images/product/152/815/574_original.jpg"
-    },
-    {
       "id": "p_1022",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Элементы лестниц",
@@ -9332,15 +8706,6 @@
       "dimensions": "-",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/501/286_original.jpg"
-    },
-    {
-      "id": "p_1035",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 150 (щебень)",
-      "dimensions": "-",
-      "weight": "тяжелый",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/180_original.jpg"
     },
     {
       "id": "p_1036",
@@ -10405,15 +9770,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/427_original.png"
     },
     {
-      "id": "p_1154",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 150 (щебень)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/180_original.jpg"
-    },
-    {
       "id": "p_1155",
       "categoryId": "жби_для_дорожного_строительства_и_благоустройства",
       "subCategory": "Кольца бетонные",
@@ -10585,15 +9941,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/501/392_original.jpg"
     },
     {
-      "id": "p_1174",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 50",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
       "id": "p_1175",
       "categoryId": "жби_для_дорожного_строительства_и_благоустройства",
       "subCategory": "Кольца бетонные",
@@ -10628,24 +9975,6 @@
       "dimensions": "-",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/501/387_original.png"
-    },
-    {
-      "id": "p_1179",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
-      "id": "p_1180",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 50",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_1181",
@@ -11008,15 +10337,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/427_original.png"
     },
     {
-      "id": "p_1221",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 250 (щебень)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/180_original.jpg"
-    },
-    {
       "id": "p_1222",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Балки",
@@ -11026,15 +10346,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/501/130_original.jpg"
     },
     {
-      "id": "p_1223",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 200 (щебень)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/195_original.jpg"
-    },
-    {
       "id": "p_1224",
       "categoryId": "жби_для_дорожного_строительства_и_благоустройства",
       "subCategory": "Плиты",
@@ -11042,15 +10353,6 @@
       "dimensions": "-",
       "weight": "150 кг",
       "image": "https://st26.stpulscen.ru/images/product/230/502/131_original.jpg"
-    },
-    {
-      "id": "p_1225",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/238_original.jpg"
     },
     {
       "id": "p_1226",
@@ -11197,60 +10499,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/131_original.jpg"
     },
     {
-      "id": "p_1242",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор бетонный М 100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/240_original.jpg"
-    },
-    {
-      "id": "p_1243",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 400 (щебень)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/240_original.jpg"
-    },
-    {
-      "id": "p_1244",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 350 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/240_original.jpg"
-    },
-    {
-      "id": "p_1245",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 300 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/240_original.jpg"
-    },
-    {
-      "id": "p_1246",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 200",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/258_original.jpg"
-    },
-    {
-      "id": "p_1247",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 250 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/240_original.jpg"
-    },
-    {
       "id": "p_1248",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Балки",
@@ -11330,15 +10578,6 @@
       "dimensions": "-",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/501/383_original.jpg"
-    },
-    {
-      "id": "p_1257",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 75",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_1258",
@@ -12871,15 +12110,6 @@
       "image": "https://st26.stpulscen.ru/images/product/230/502/252_original.jpg"
     },
     {
-      "id": "p_1428",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 50",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
       "id": "p_1429",
       "categoryId": "жби_для_гражданского_и_промышленного_строительства",
       "subCategory": "Плиты",
@@ -12968,33 +12198,6 @@
       "dimensions": "-",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/502/252_original.jpg"
-    },
-    {
-      "id": "p_1439",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 75",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
-      "id": "p_1440",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 100",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
-    },
-    {
-      "id": "p_1441",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор цементно-известковый М 50",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/181_original.jpg"
     },
     {
       "id": "p_1442",
@@ -13283,24 +12486,6 @@
       "dimensions": "2400х600х600",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/501/263_original.jpg"
-    },
-    {
-      "id": "p_1474",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Бетон М 200 (гравий)",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st16.stpulscen.ru/images/product/152/815/561_original.jpg"
-    },
-    {
-      "id": "p_1475",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Керамзит",
-      "name": "Керамзит М100",
-      "dimensions": "</strong></p>\n<p>• БСЛ М100: бетонная смесь легкая",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/502/929_original.jpg"
     },
     {
       "id": "p_1476",
@@ -19403,15 +18588,6 @@
       "dimensions": "-",
       "weight": "-",
       "image": "https://st26.stpulscen.ru/images/product/230/502/252_original.jpg"
-    },
-    {
-      "id": "p_2154",
-      "categoryId": "строительные_материалы",
-      "subCategory": "Бетон и раствор",
-      "name": "Раствор бетонный М 150",
-      "dimensions": "-",
-      "weight": "-",
-      "image": "https://st26.stpulscen.ru/images/product/230/501/240_original.jpg"
     },
     {
       "id": "p_2155",
